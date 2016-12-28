@@ -26,7 +26,7 @@ class App:
         self.master = master
         self.window_width = 797
         self.window_height = 314
-        self.list_vnfs = ["Estatistica","DPI"]#deletar
+        self.list_vnfs = ["Estatistica","DPI"]
 
         labels = []
         entries = []
